@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+ul, li{
+    
+    list-style-type: none;
+    display: inline;
+    font-size: 20px;
+
+}
+
+.nav {
+
+margin-top: -60px;
+}
+
+.ford{
+    margin-left: 130px;
+}
+
+
+.homemarg {
+    margin-left: 841px;
+
+}
+
+.aboutmarg{
+    margin-left: 121px;
+    margin-right: 121px;
+}
+a{
+    text-decoration: none;
+}
+
+.active-link {
+    color:#F50808;
+;
+}
+
+.img10{
+ margin-top: 32px;
+ /* width: 1440px;; */
+ margin-left: 0px;
+}
+
+h1{
+    color: #17326E;
+font-size: 36px;
+line-height: 43.57px;
+margin-top: 120px;
+}
+
+p{
+    color:#090346;
+    line-height: 24.2px;
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+.cars{
+    background-color: #EBEBF0;
+ box-sizing: content-box;
+ width: 1340px;
+ height: 350px;
+  display: inline-block;
+  padding-top: 200px;
+  padding-left:130px;
+  margin-top: 120px;
+}
+
+.bluecar{
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+.footer{
+    background-color:#19126B;
+    width: 1340px;
+padding-left: 130px;
+padding-top: 50px;
+padding-bottom: 51px;
+}
+
+.footer a {
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.footer p{
+    color: white;
+    font-size: 16px;
+    float: right;
+    padding-right: 130px;
+    display: inline;
+}
+
+
+.divhistory {
+    background-color:#EBEBF0;
+    box-sizing: content-box;
+    height: 516px;
+    width: 1340px;
+    padding-left: 130px;
+    padding-top: 73px;
+    margin-top: 120px;
+   
+ 
+}
+
+.divhistory img {
+   display: block; 
+  float: right;
+  margin-top: -250px;
+  padding-right: 130px;
+  
+}
+.divhistory p{
+    display: block;
+}
+
+
+.flex-conteiner {
+    display: flex;
+    width: 1440px;
+    height: 439px;
+    justify-content:flex-start;
+    background-color: #EBEBF0;
+    flex-direction:row;
+    margin-top: 120px;
+    /* row-gap: 20px; */
+ 
+}
+
+.flex-conteiner>img{
+    width: 380px;
+    height: 197px;
+    margin-left: 130px;
+    margin-top: 121px;
+}
